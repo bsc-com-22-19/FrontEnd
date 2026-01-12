@@ -16,3 +16,6 @@ The project demonstrates basic frontend development skills, including:
 1. Clone the repository:
    ```bash
    git clone https://github.com/bsc-com-22-19/FrontEnd.git
+
+## Live Project URL
+    https://bsc-com-22-19.github.io/FrontEnd/
