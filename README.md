@@ -1,5 +1,10 @@
 # Chinsinsi Mndala – Curriculum Vitae Website
 
+
+**Project URL:**  
+https://bsc-com-22-19.github.io/FrontEnd/
+
+
 This repository contains a simple personal curriculum vitae website built using HTML.
 
 ## Project Overview
