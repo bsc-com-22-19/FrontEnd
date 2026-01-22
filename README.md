@@ -1,18 +1,14 @@
-https://github.com/bsc-com-22-19/FrontEnd
-
 # Chinsinsi Mndala – Curriculum Vitae Website
 
-Live Demo:
+Project Page URL:
 https://bsc-com-22-19.github.io/FrontEnd/
 
-This repository contains a simple personal curriculum vitae website built using HTML.
+## How to Run the Project
+1. Clone the repository:
+   https://github.com/bsc-com-22-19/FrontEnd
+2. Open the project folder.
+3. Open the `index.html` file in any web browser.
 
-Project Overview
-The project demonstrates basic frontend development skills, including:
-- HTML page structure
-- Proper use of semantic tags
-- Version control with Git and GitHub
-
-Technologies Used
+## Technologies Used
 - HTML5
 - Git & GitHub
